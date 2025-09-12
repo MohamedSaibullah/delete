@@ -1,0 +1,27 @@
+.id1{
+  color: rgb(199, 24, 24);  
+  font-family: Verdana;
+  /* background-color: blue; */
+  /* scroll-padding-left: 19px; */
+    /* text-align: center; */
+    /* border: solid brown;
+     */
+}
+.id{
+     height:200px;
+     width:device-width;
+    border-radius: 20px;
+    border: 2px solid rgb(182, 0, 0);
+    
+}
+.b{
+    padding: 05px;
+    /* color: coral; */
+    cursor: pointer;
+     color: rgb(158, 238, 79);
+    background-color: rgb(59, 110, 8);
+}
+.b1{
+    /* text-align: center; */
+   
+}
